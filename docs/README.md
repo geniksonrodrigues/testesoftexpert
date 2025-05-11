@@ -19,8 +19,8 @@
       }
       .container {
         background: white;
-        width: 90%;
-        max-width: 700px;
+        width: 100%;
+        max-width: 1200px;
         border: 1px solid #ccc;
         border-radius: 12px;
         box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
