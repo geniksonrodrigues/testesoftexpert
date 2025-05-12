@@ -218,7 +218,7 @@
         `Com essas informações, conseguiremos investigar com mais precisão e agilidade.`,
         `Se preferir, também posso te ajudar por chamada de voz ou via Teams para realizar esses passos juntos. Basta me avisar!`,
         `Estou à disposição e acompanhando de perto para garantir que você volte a acessar o sistema o quanto antes.`,
-        `Atenciosamente,<br><strong>Genikson<br>Suporte Técnico</strong>`,
+        `Atenciosamente,<br><strong>Genikson<br>Suporte Técnico SoftExpert</strong>`,
       ]
 
       function showPage(pageId) {
